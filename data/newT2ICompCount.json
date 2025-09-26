@@ -1,0 +1,1352 @@
+[
+  {
+    "p_id": 0,
+    "prompt": "A photo of two boys",
+    "object": "boy",
+    "object_plural": "boys",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      424478,
+      4139607163,
+      2474970196,
+      4069296584,
+      4161041627
+    ]
+  },
+  {
+    "p_id": 1,
+    "prompt": "A photo of six airplanes",
+    "object": "airplane",
+    "object_plural": "airplanes",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      744235875,
+      1200975085,
+      1898220317,
+      2324160398,
+      704062
+    ]
+  },
+  {
+    "p_id": 2,
+    "prompt": "A photo of five drums",
+    "object": "drum",
+    "object_plural": "drums",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      307173,
+      1455830108,
+      1485611255,
+      1750029663,
+      4210835999
+    ]
+  },
+  {
+    "p_id": 3,
+    "prompt": "A photo of one turtle",
+    "object": "turtle",
+    "object_plural": "turtle",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      383835,
+      2044381019,
+      2457038879,
+      3199479673,
+      297332722
+    ]
+  },
+  {
+    "p_id": 4,
+    "prompt": "A photo of seven women",
+    "object": "woman",
+    "object_plural": "women",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      187948,
+      871634981,
+      1037199158,
+      1740960255,
+      220456996
+    ]
+  },
+  {
+    "p_id": 5,
+    "prompt": "A photo of eight cars",
+    "object": "car",
+    "object_plural": "cars",
+    "number": "eight",
+    "int_number": 8,
+    "seeds": [
+      2650616029,
+      1374634146,
+      2375677363,
+      1087882666,
+      4179699094
+    ]
+  },
+  {
+    "p_id": 6,
+    "prompt": "A photo of two rabbits",
+    "object": "rabbit",
+    "object_plural": "rabbits",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      390095,
+      3223544354,
+      705571574,
+      304769249,
+      4082848760
+    ]
+  },
+  {
+    "p_id": 7,
+    "prompt": "A photo of six girls",
+    "object": "girl",
+    "object_plural": "girls",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      395917,
+      50056455,
+      1805829896,
+      493094222,
+      3012274880
+    ]
+  },
+  {
+    "p_id": 8,
+    "prompt": "A photo of one vase",
+    "object": "vase",
+    "object_plural": "vase",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      157918,
+      3399601015,
+      3718017794,
+      1207205803,
+      3319306671
+    ]
+  },
+  {
+    "p_id": 9,
+    "prompt": "A photo of eight bottles",
+    "object": "bottle",
+    "object_plural": "bottles",
+    "number": "eight",
+    "int_number": 8,
+    "seeds": [
+      916953,
+      2767420299,
+      216882487,
+      2479422235,
+      1343626370
+    ]
+  },
+  {
+    "p_id": 10,
+    "prompt": "A photo of three swans",
+    "object": "swan",
+    "object_plural": "swans",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      2347453516,
+      3870999029,
+      797588629,
+      2985012212,
+      2486129974
+    ]
+  },
+  {
+    "p_id": 11,
+    "prompt": "A photo of three fish",
+    "object": "fish",
+    "object_plural": "fish",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      861247,
+      2872514354,
+      434689727,
+      2048787777,
+      3984250701
+    ]
+  },
+  {
+    "p_id": 12,
+    "prompt": "A photo of four ships",
+    "object": "ship",
+    "object_plural": "ships",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      3745709891,
+      546824081,
+      3641206927,
+      128132576,
+      989557135
+    ]
+  },
+  {
+    "p_id": 13,
+    "prompt": "A photo of six toys",
+    "object": "toy",
+    "object_plural": "toys",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      442466,
+      2830704922,
+      3001722874,
+      2659825443,
+      2757756287
+    ]
+  },
+  {
+    "p_id": 14,
+    "prompt": "A photo of one drum",
+    "object": "drum",
+    "object_plural": "drum",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      193356,
+      2666453321,
+      1458849605,
+      3196032024,
+      30214890
+    ]
+  },
+  {
+    "p_id": 15,
+    "prompt": "A photo of five frogs",
+    "object": "frog",
+    "object_plural": "frogs",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      609728,
+      3591723422,
+      1081820659,
+      314455853,
+      2266489016
+    ]
+  },
+  {
+    "p_id": 16,
+    "prompt": "A photo of seven drums",
+    "object": "drum",
+    "object_plural": "drums",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      2863506419,
+      2968391767,
+      929030,
+      2957606693,
+      2814893336
+    ]
+  },
+  {
+    "p_id": 17,
+    "prompt": "A photo of seven computers",
+    "object": "computer",
+    "object_plural": "computers",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      2746207591,
+      3480524841,
+      1403629069,
+      660205,
+      2381047259
+    ]
+  },
+  {
+    "p_id": 18,
+    "prompt": "A photo of seven shrimp",
+    "object": "shrimp",
+    "object_plural": "shrimp",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      759823388,
+      697778576,
+      1220797217,
+      441773261,
+      323175522
+    ]
+  },
+  {
+    "p_id": 19,
+    "prompt": "A photo of two dogs",
+    "object": "dog",
+    "object_plural": "dogs",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      582886,
+      2166483165,
+      4102150342,
+      374707105,
+      4145593902
+    ]
+  },
+  {
+    "p_id": 20,
+    "prompt": "A photo of four helicopters",
+    "object": "helicopter",
+    "object_plural": "helicopters",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      229237,
+      1899135265,
+      3521928576,
+      190886840,
+      2198882715
+    ]
+  },
+  {
+    "p_id": 21,
+    "prompt": "A photo of seven refrigerators",
+    "object": "refrigerator",
+    "object_plural": "refrigerators",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      3102857432,
+      4003760764,
+      3355573575,
+      1946654073,
+      2563234705
+    ]
+  },
+  {
+    "p_id": 22,
+    "prompt": "A photo of one pig",
+    "object": "pig",
+    "object_plural": "pig",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      451236,
+      3816882036,
+      3106910842,
+      3014862444,
+      2542721263
+    ]
+  },
+  {
+    "p_id": 23,
+    "prompt": "A photo of six breads",
+    "object": "bread",
+    "object_plural": "breads",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      2035012536,
+      3581051472,
+      1612347741,
+      158257027,
+      997293686
+    ]
+  },
+  {
+    "p_id": 24,
+    "prompt": "A photo of five knives",
+    "object": "knife",
+    "object_plural": "knives",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      411338426,
+      1167118303,
+      2172953283,
+      142682174,
+      1639732904
+    ]
+  },
+  {
+    "p_id": 25,
+    "prompt": "A photo of one knife",
+    "object": "knife",
+    "object_plural": "knife",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      933790,
+      3444390690,
+      3856246797,
+      2276180384,
+      2727347681
+    ]
+  },
+  {
+    "p_id": 26,
+    "prompt": "A photo of one refrigerator",
+    "object": "refrigerator",
+    "object_plural": "refrigerator",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      985293,
+      3314477781,
+      4090951334,
+      3427796382,
+      97792
+    ]
+  },
+  {
+    "p_id": 27,
+    "prompt": "A photo of two clocks",
+    "object": "clock",
+    "object_plural": "clocks",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      1978080718,
+      768955404,
+      759457549,
+      2192130108,
+      318863651
+    ]
+  },
+  {
+    "p_id": 28,
+    "prompt": "A photo of five televisions",
+    "object": "television",
+    "object_plural": "televisions",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      3401120947,
+      194199,
+      3529979002,
+      3411696942,
+      168168695
+    ]
+  },
+  {
+    "p_id": 29,
+    "prompt": "A photo of four boys",
+    "object": "boy",
+    "object_plural": "boys",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      1155946554,
+      113853,
+      3189746008,
+      895513200,
+      1558886477
+    ]
+  },
+  {
+    "p_id": 30,
+    "prompt": "A photo of four goldfish",
+    "object": "goldfish",
+    "object_plural": "goldfish",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      176998,
+      4046666499,
+      2508874314,
+      1399405955,
+      1221553658
+    ]
+  },
+  {
+    "p_id": 31,
+    "prompt": "A photo of six trucks",
+    "object": "truck",
+    "object_plural": "trucks",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      78660406,
+      2304646366,
+      1173756206,
+      3487083728,
+      3196733056
+    ]
+  },
+  {
+    "p_id": 32,
+    "prompt": "A photo of five tables",
+    "object": "table",
+    "object_plural": "tables",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      3493500879,
+      2550445993,
+      3014455521,
+      190222020,
+      1765326740
+    ]
+  },
+  {
+    "p_id": 33,
+    "prompt": "A photo of five toys",
+    "object": "toy",
+    "object_plural": "toys",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      1878672744,
+      1830208275,
+      978453,
+      2096808947,
+      3565064047
+    ]
+  },
+  {
+    "p_id": 34,
+    "prompt": "A photo of four microwaves",
+    "object": "microwave",
+    "object_plural": "microwaves",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      176428,
+      87691097,
+      716816173,
+      1631050664,
+      2590642530
+    ]
+  },
+  {
+    "p_id": 35,
+    "prompt": "A photo of seven balloons",
+    "object": "balloon",
+    "object_plural": "balloons",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      112640535,
+      1593954972,
+      651182101,
+      1377416774,
+      596585356
+    ]
+  },
+  {
+    "p_id": 36,
+    "prompt": "A photo of three pillows",
+    "object": "pillow",
+    "object_plural": "pillows",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      3454946244,
+      1363195013,
+      2917449590,
+      3526862406,
+      3673328003
+    ]
+  },
+  {
+    "p_id": 37,
+    "prompt": "A photo of six televisions",
+    "object": "television",
+    "object_plural": "televisions",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      751634,
+      4058887009,
+      3631932774,
+      2962405810,
+      4197230937
+    ]
+  },
+  {
+    "p_id": 38,
+    "prompt": "A photo of seven lamps",
+    "object": "lamp",
+    "object_plural": "lamps",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      645041,
+      2411666154,
+      1285403085,
+      3553417269,
+      54960478
+    ]
+  },
+  {
+    "p_id": 39,
+    "prompt": "A photo of seven cups",
+    "object": "cup",
+    "object_plural": "cups",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      363370438,
+      637893,
+      3165902163,
+      466633030,
+      1673756514
+    ]
+  },
+  {
+    "p_id": 40,
+    "prompt": "A photo of five kites",
+    "object": "kite",
+    "object_plural": "kites",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      239768,
+      2386595015,
+      2196915947,
+      3204607342,
+      1574435070
+    ]
+  },
+  {
+    "p_id": 41,
+    "prompt": "A photo of two ducks",
+    "object": "duck",
+    "object_plural": "ducks",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      733610012,
+      3364382410,
+      876615212,
+      375930508,
+      607253561
+    ]
+  },
+  {
+    "p_id": 42,
+    "prompt": "A photo of five candles",
+    "object": "candle",
+    "object_plural": "candles",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      611810,
+      932264915,
+      1838207959,
+      2291511902,
+      2369380423
+    ]
+  },
+  {
+    "p_id": 43,
+    "prompt": "A photo of two swans",
+    "object": "swan",
+    "object_plural": "swans",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      389091,
+      3098700552,
+      1187006421,
+      409478026,
+      1442217916
+    ]
+  },
+  {
+    "p_id": 44,
+    "prompt": "A photo of one lemon",
+    "object": "lemon",
+    "object_plural": "lemon",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      712935,
+      2688836905,
+      919169685,
+      3221699982,
+      3362049822
+    ]
+  },
+  {
+    "p_id": 45,
+    "prompt": "A photo of four candles",
+    "object": "candle",
+    "object_plural": "candles",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      726726,
+      723406212,
+      122481840,
+      3304421030,
+      974630374
+    ]
+  },
+  {
+    "p_id": 46,
+    "prompt": "A photo of three microwaves",
+    "object": "microwave",
+    "object_plural": "microwaves",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      795097,
+      1736578369,
+      257007825,
+      236374240,
+      3391917283
+    ]
+  },
+  {
+    "p_id": 47,
+    "prompt": "A photo of seven trains",
+    "object": "train",
+    "object_plural": "trains",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      678269,
+      428429940,
+      1401744974,
+      3224239541,
+      3860551606
+    ]
+  },
+  {
+    "p_id": 48,
+    "prompt": "A photo of two trains",
+    "object": "train",
+    "object_plural": "trains",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      884415,
+      1456945552,
+      2319974074,
+      2666739333,
+      1460303868
+    ]
+  },
+  {
+    "p_id": 49,
+    "prompt": "A photo of four refrigerators",
+    "object": "refrigerator",
+    "object_plural": "refrigerators",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      979453579,
+      2559095695,
+      410317,
+      1885956520,
+      494776348
+    ]
+  },
+  {
+    "p_id": 50,
+    "prompt": "A photo of four frogs",
+    "object": "frog",
+    "object_plural": "frogs",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      863268,
+      2552296934,
+      1023163581,
+      3530942744,
+      57605544
+    ]
+  },
+  {
+    "p_id": 51,
+    "prompt": "A photo of one backpack",
+    "object": "backpack",
+    "object_plural": "backpack",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      921736,
+      3074959900,
+      3137762486,
+      572442516,
+      4013680918
+    ]
+  },
+  {
+    "p_id": 52,
+    "prompt": "A photo of six vases",
+    "object": "vase",
+    "object_plural": "vases",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      2811036198,
+      2764837734,
+      2754378916,
+      2948714338,
+      458717
+    ]
+  },
+  {
+    "p_id": 53,
+    "prompt": "A photo of four pigs",
+    "object": "pig",
+    "object_plural": "pigs",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      729386,
+      1312953129,
+      1926565660,
+      4281187779,
+      3866485800
+    ]
+  },
+  {
+    "p_id": 54,
+    "prompt": "A photo of six keys",
+    "object": "key",
+    "object_plural": "keys",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      522787,
+      3233199706,
+      2938479772,
+      1352787895,
+      4014482278
+    ]
+  },
+  {
+    "p_id": 55,
+    "prompt": "A photo of three boys",
+    "object": "boy",
+    "object_plural": "boys",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      3906561948,
+      2389693881,
+      1738132883,
+      598145,
+      2052551509
+    ]
+  },
+  {
+    "p_id": 56,
+    "prompt": "A photo of seven printers",
+    "object": "printer",
+    "object_plural": "printers",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      946914,
+      2128600189,
+      40280408,
+      2995032802,
+      3878080272
+    ]
+  },
+  {
+    "p_id": 57,
+    "prompt": "A photo of six ducks",
+    "object": "duck",
+    "object_plural": "ducks",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      942964122,
+      695054,
+      3678933416,
+      4002131590,
+      1929170417
+    ]
+  },
+  {
+    "p_id": 58,
+    "prompt": "A photo of seven desks",
+    "object": "desk",
+    "object_plural": "desks",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      319349,
+      2800121151,
+      529794276,
+      1123369054,
+      949151304
+    ]
+  },
+  {
+    "p_id": 59,
+    "prompt": "A photo of two printers",
+    "object": "printer",
+    "object_plural": "printers",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      1942928318,
+      3979408976,
+      2083756449,
+      964622340,
+      2669342246
+    ]
+  },
+  {
+    "p_id": 60,
+    "prompt": "A photo of six horses",
+    "object": "horse",
+    "object_plural": "horses",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      53879050,
+      1175376120,
+      2246544425,
+      2788864416,
+      22207093
+    ]
+  },
+  {
+    "p_id": 61,
+    "prompt": "A photo of seven camels",
+    "object": "camel",
+    "object_plural": "camels",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      2417120903,
+      3033789897,
+      2687278291,
+      2152230558,
+      2873528735
+    ]
+  },
+  {
+    "p_id": 62,
+    "prompt": "A photo of six boys",
+    "object": "boy",
+    "object_plural": "boys",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      838991479,
+      261346424,
+      1801046624,
+      3965714137,
+      4062513507
+    ]
+  },
+  {
+    "p_id": 63,
+    "prompt": "A photo of eight peaches",
+    "object": "peach",
+    "object_plural": "peaches",
+    "number": "eight",
+    "int_number": 8,
+    "seeds": [
+      399601,
+      2575548847,
+      1181045029,
+      3272623293,
+      413879103
+    ]
+  },
+  {
+    "p_id": 64,
+    "prompt": "A photo of three cows",
+    "object": "cow",
+    "object_plural": "cows",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      2705440311,
+      1040919957,
+      44481078,
+      2685033059,
+      1095906610
+    ]
+  },
+  {
+    "p_id": 65,
+    "prompt": "A photo of one bowl",
+    "object": "bowl",
+    "object_plural": "bowl",
+    "number": "one",
+    "int_number": 1,
+    "seeds": [
+      911827,
+      3555957543,
+      3800782738,
+      4269424326,
+      4074324018
+    ]
+  },
+  {
+    "p_id": 66,
+    "prompt": "A photo of five balloons",
+    "object": "balloon",
+    "object_plural": "balloons",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      3948772099,
+      1910422614,
+      343999343,
+      2740130922,
+      367497
+    ]
+  },
+  {
+    "p_id": 67,
+    "prompt": "A photo of three bottles",
+    "object": "bottle",
+    "object_plural": "bottles",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      1065428772,
+      3551294310,
+      3250321582,
+      511304,
+      3366685324
+    ]
+  },
+  {
+    "p_id": 68,
+    "prompt": "A photo of six sheep",
+    "object": "sheep",
+    "object_plural": "sheep",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      933056601,
+      136910495,
+      3751438832,
+      191904,
+      164929646
+    ]
+  },
+  {
+    "p_id": 69,
+    "prompt": "A photo of four pens",
+    "object": "pen",
+    "object_plural": "pens",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      696317,
+      3491876917,
+      3543035522,
+      4166979262,
+      42613659
+    ]
+  },
+  {
+    "p_id": 70,
+    "prompt": "A photo of eight rabbits",
+    "object": "rabbit",
+    "object_plural": "rabbits",
+    "number": "eight",
+    "int_number": 8,
+    "seeds": [
+      3377384583,
+      545057,
+      3060717631,
+      2214368383,
+      443234686
+    ]
+  },
+  {
+    "p_id": 71,
+    "prompt": "A photo of five books",
+    "object": "book",
+    "object_plural": "books",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      2560169486,
+      337427770,
+      3226468861,
+      2809054429,
+      1131023000
+    ]
+  },
+  {
+    "p_id": 72,
+    "prompt": "A photo of four apples were picked from the tree",
+    "object": "apple",
+    "object_plural": "apples",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      311141,
+      3840635652,
+      3334414604,
+      1323890263,
+      618693948
+    ]
+  },
+  {
+    "p_id": 73,
+    "prompt": "A photo of three apples rolled off the counter",
+    "object": "apple",
+    "object_plural": "apples",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      328588,
+      1335957691,
+      469800753,
+      3317623641,
+      2190521785
+    ]
+  },
+  {
+    "p_id": 74,
+    "prompt": "A photo of three clocks ticked on the wall",
+    "object": "clock",
+    "object_plural": "clocks",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      928141108,
+      1805345187,
+      1872816281,
+      2437257841,
+      3064818546
+    ]
+  },
+  {
+    "p_id": 75,
+    "prompt": "A photo of four ducks quacked by the pond",
+    "object": "duck",
+    "object_plural": "ducks",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      276624,
+      1176108170,
+      4168291069,
+      975340249,
+      1724947150
+    ]
+  },
+  {
+    "p_id": 76,
+    "prompt": "A photo of seven frogs leaped into the water",
+    "object": "frog",
+    "object_plural": "frogs",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      1704708762,
+      3049139467,
+      2300062155,
+      717473457,
+      2975366544
+    ]
+  },
+  {
+    "p_id": 77,
+    "prompt": "A photo of five hamburgers sizzled on the grill",
+    "object": "hamburger",
+    "object_plural": "hamburgers",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      1661383031,
+      231377,
+      931550944,
+      1358866240,
+      1934638035
+    ]
+  },
+  {
+    "p_id": 78,
+    "prompt": "A photo of six people gathered for a picnic",
+    "object": "person",
+    "object_plural": "people",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      161068,
+      1003239206,
+      3463787867,
+      989725411,
+      2108170960
+    ]
+  },
+  {
+    "p_id": 79,
+    "prompt": "A photo of three butterflies danced in the garden",
+    "object": "butterfly",
+    "object_plural": "butterflies",
+    "number": "three",
+    "int_number": 3,
+    "seeds": [
+      225925,
+      2668590080,
+      1724735770,
+      301435750,
+      2786098642
+    ]
+  },
+  {
+    "p_id": 80,
+    "prompt": "A photo of five trains passed by the station",
+    "object": "train",
+    "object_plural": "trains",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      867445037,
+      2124414301,
+      120023283,
+      1283715903,
+      103997
+    ]
+  },
+  {
+    "p_id": 81,
+    "prompt": "A photo of two drums added rhythm to the music",
+    "object": "drum",
+    "object_plural": "drums",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      225641,
+      55277641,
+      880921864,
+      2760126533,
+      712925969
+    ]
+  },
+  {
+    "p_id": 82,
+    "prompt": "A photo of two trucks unloaded their cargo",
+    "object": "truck",
+    "object_plural": "trucks",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      1366933745,
+      3902321893,
+      1049125887,
+      1990114001,
+      926435
+    ]
+  },
+  {
+    "p_id": 83,
+    "prompt": "A photo of six fish swam in the aquarium",
+    "object": "fish",
+    "object_plural": "fish",
+    "number": "six",
+    "int_number": 6,
+    "seeds": [
+      1045288509,
+      457865,
+      3916800899,
+      4287766438,
+      917391029
+    ]
+  },
+  {
+    "p_id": 84,
+    "prompt": "A photo of seven strawberries were ripe for picking",
+    "object": "strawberry",
+    "object_plural": "strawberries",
+    "number": "seven",
+    "int_number": 7,
+    "seeds": [
+      649512,
+      3235140614,
+      1716657106,
+      1209776414,
+      1757105671
+    ]
+  },
+  {
+    "p_id": 85,
+    "prompt": "A photo of five sheep grazed in the pasture",
+    "object": "sheep",
+    "object_plural": "sheep",
+    "number": "five",
+    "int_number": 5,
+    "seeds": [
+      428719199,
+      781451958,
+      2984689784,
+      2817199158,
+      3770065233
+    ]
+  },
+  {
+    "p_id": 86,
+    "prompt": "A photo of eight cats lounged in the sun",
+    "object": "cat",
+    "object_plural": "cats",
+    "number": "eight",
+    "int_number": 8,
+    "seeds": [
+      2488969962,
+      2083933265,
+      3617131070,
+      3033435365,
+      3132748777
+    ]
+  },
+  {
+    "p_id": 87,
+    "prompt": "A photo of four balloons floated in the sky",
+    "object": "balloon",
+    "object_plural": "balloons",
+    "number": "four",
+    "int_number": 4,
+    "seeds": [
+      797698,
+      318490229,
+      3367197617,
+      2901638533,
+      2541291581
+    ]
+  },
+  {
+    "p_id": 88,
+    "prompt": "A photo of eight sofas provided comfortable seating",
+    "object": "sofa",
+    "object_plural": "sofas",
+    "number": "eight",
+    "int_number": 8,
+    "seeds": [
+      445096,
+      3328435887,
+      1382691200,
+      2265950181,
+      4259659879
+    ]
+  },
+  {
+    "p_id": 89,
+    "prompt": "A photo of two cars stuck on the road",
+    "object": "car",
+    "object_plural": "cars",
+    "number": "two",
+    "int_number": 2,
+    "seeds": [
+      1089570889,
+      1792585805,
+      3007161871,
+      3728659144,
+      2368272452
+    ]
+  }
+]
